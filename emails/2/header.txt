@@ -1,3 +1,0 @@
-ID: 2 (RFC822 {57876}
-Sender: GoDaddy <donotreply@godaddy.com>
-Subject: Welcome to Office 365. Let's get started.

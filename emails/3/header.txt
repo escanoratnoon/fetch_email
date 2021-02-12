@@ -1,3 +1,0 @@
-ID: 3 (RFC822 {15710}
-Sender: "Proofpoint Essentials" <do-not-reply@cloud-protect.net>
-Subject: Welcome to GoDaddy's Advanced Email Security Service

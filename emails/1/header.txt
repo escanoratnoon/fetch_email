@@ -1,3 +1,0 @@
-ID: 1 (RFC822 {64138}
-Sender: GoDaddy <donotreply@godaddy.com>
-Subject: Add your new email to your favorite devices.
