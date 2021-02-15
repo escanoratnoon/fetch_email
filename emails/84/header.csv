@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+84 (RFC822 {34850},"Fri, 12 Feb 2021 19:40:27 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Fwd: Your receipt and ticket(s) from Capital Metro - #CM3449229-364,False,True,None

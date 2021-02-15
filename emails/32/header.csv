@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+32 (RFC822 {78908},"Wed, 10 Feb 2021 11:19:22 -0600",Microsoft 365,Microsoft365@mail.microsoft365.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Get started with Microsoft 365,False,False,None

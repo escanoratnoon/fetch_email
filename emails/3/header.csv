@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+3 (RFC822 {15710},"Fri,  5 Feb 2021 16:24:47 +0000 (UTC)",Proofpoint Essentials,do-not-reply@cloud-protect.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Welcome to GoDaddy's Advanced Email Security Service,False,False,None

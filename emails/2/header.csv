@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+2 (RFC822 {57876},"Fri, 05 Feb 2021 09:24:34 -0700",GoDaddy,donotreply@godaddy.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Welcome to Office 365. Let's get started.,False,False,None

@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+160 (RFC822 {21869},"Sun, 14 Feb 2021 23:10:56 -0600",Brian Meade,vers7guy@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Bus 7 at Stop #5377,True,False,None

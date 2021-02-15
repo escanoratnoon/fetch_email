@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+48 (RFC822 {28565},"Thu, 11 Feb 2021 17:00:44 +0000 (UTC)",Bruce Johnson,bjohns97@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: ticket recovery,True,False,None

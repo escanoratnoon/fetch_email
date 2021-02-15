@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+51 (RFC822 {51908},"Thu, 11 Feb 2021 12:11:19 -0600",dresfacekick,dresfacekick@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,None

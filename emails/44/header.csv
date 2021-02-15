@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+44 (RFC822 {16515},"Thu, 11 Feb 2021 08:47:10 -0600",Ruben Cardona,rubenjames82@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Rides,False,False,None

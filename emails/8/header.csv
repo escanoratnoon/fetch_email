@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+8 (RFC822 {20767},"Tue, 9 Feb 2021 11:04:51 -0600",Sierra Adkins,sierra@sanctuaryproject.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Physical Day Pass Purchase,False,False,None

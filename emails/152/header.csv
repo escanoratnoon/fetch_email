@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+152 (RFC822 {16138},"Sun, 14 Feb 2021 21:07:33 -0600",Matt Garcia,matt.garcia78741@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/14/21 BUS ROUTE 271,False,False,None

@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+31 (RFC822 {54594},"Wed, 10 Feb 2021 15:44:58 +0000 (UTC)",Proofpoint Essentials,do-not-reply@cloud-protect.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Quarantine List - GoDaddy Email Encryption,False,False,None

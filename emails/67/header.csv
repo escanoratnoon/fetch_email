@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+67 (RFC822 {17003},"Fri, 12 Feb 2021 12:52:10 -0600",Evil Hound,drpeterson9520@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None

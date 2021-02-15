@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+20 (RFC822 {5562208},"Tue, 9 Feb 2021 18:41:32 -0600",,ventas@rieles.us,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RIEMSA Track Materials,False,False,None

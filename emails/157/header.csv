@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+157 (RFC822 {24559},"Mon, 15 Feb 2021 05:08:16 +0000",Customer Service,Customer.Service@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"RE: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)",True,False,None

@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+25 (RFC822 {22272},"Wed, 10 Feb 2021 11:58:55 +0000 (UTC)",Sandra Nino,sandra.nino@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Bus Driver,False,False,None

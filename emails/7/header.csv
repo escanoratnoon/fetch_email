@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+7 (RFC822 {21120},"Tue, 9 Feb 2021 16:48:01 +0500",Mohsin Ali,mohsin.alphavu@nxvt.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Fwd: Re: Threaded Email Testing 1,True,True,None

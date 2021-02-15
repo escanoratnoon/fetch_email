@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+92 (RFC822 {16797},"Sat, 13 Feb 2021 00:28:07 -0600",Jeffrey Reid,jeffreyreid166@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,,False,False,None

@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+9 (RFC822 {26786},"Tue, 9 Feb 2021 17:38:37 +0000",Kareithi Martin,martin.kareithi@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Inquiry,True,False,None

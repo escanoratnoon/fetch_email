@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+137 (RFC822 {22824},"Sun, 14 Feb 2021 02:01:22 +0000",Doug McHugh,dmac22@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,buses still running?,False,False,None

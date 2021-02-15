@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+1 (RFC822 {64138},"Fri, 05 Feb 2021 09:24:33 -0700",GoDaddy,donotreply@godaddy.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Add your new email to your favorite devices.,False,False,None

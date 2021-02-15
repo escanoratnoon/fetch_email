@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+81 (RFC822 {2677498},"Sat, 13 Feb 2021 00:30:21 +0000 (UTC)",chen r-syu,rsyuchen@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Bad operator again,False,False,None

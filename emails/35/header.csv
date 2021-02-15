@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+35 (RFC822 {18725},"Wed, 10 Feb 2021 12:14:24 -0600",EDWARD CATES,edcates@prodigy.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Parked buses ,False,False,None

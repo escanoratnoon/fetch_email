@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+23 (RFC822 {322888},"Wed, 10 Feb 2021 07:11:43 +0500",Michael Calcagno,michaelcalcagno@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Downtown station map request,True,False,None

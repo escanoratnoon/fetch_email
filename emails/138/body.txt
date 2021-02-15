@@ -1,0 +1,111 @@
+Looks like it's working now, thanks so much for the timely help!!
+
+On Sat, Feb 13, 2021, 5:40 PM Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=EElNx1BEToRgtAPTeoTuT0YLO26NQsjgDRKqWbHixd8&s=u_5v5C3oyLxqkS8Gfs1vIgZwZVXZcQLtOL9O15lEcE8&e=> wrote:
+
+> Glad to hear you can access the others. Please follow the steps below for
+> the data error:
+>
+>
+>
+>    - Log out of the device
+>    - Wait a minute and log back in
+>    - Tap the three horizontal line menu in the left-hand corner of the
+>    screen
+>    - Tap More
+>    - Tap Ticket Storage; the ticket should show saved to the cloud
+>    - Tap the icon to the right of the ticket to save it to the device
+>
+>
+>
+> NOTE: You may need to force close and reopen the app if the ticket won’t
+> display
+>
+>
+>
+> After the above steps, the pass should be ready for use.
+>
+>
+>
+> I have also credited a Local Day pass for the time you were unable to
+> access your pass.
+>
+>
+>
+> Sondra Williams
+>
+>
+>
+> *From:* Miles Worthington <meworthington1@gmail.com>
+> *Sent:* Saturday, February 13, 2021 5:27 PM
+> *To:* Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=EElNx1BEToRgtAPTeoTuT0YLO26NQsjgDRKqWbHixd8&s=u_5v5C3oyLxqkS8Gfs1vIgZwZVXZcQLtOL9O15lEcE8&e=>
+> *Subject:* Re: Android Support - 2/13/21
+>
+>
+>
+> Thanks for the quick response!
+>
+>
+>
+> It seems I can use the two day passes now. However, my original 31 day
+> pass is greyed-out, with a "data error: contact customer service" message
+> over it.
+>
+>
+>
+> -Miles
+>
+>
+>
+> On Sat, Feb 13, 2021, 4:29 PM Customer Service <
+> Customer.Service@capmetro.org> wrote:
+>
+> Mr. Worthington,
+>
+>
+>
+> The issue should be resolved. Please check to see if you can see and
+> access your passes.
+>
+>
+>
+> Thank you,
+>
+> Sondra Williams
+>
+>
+>
+>
+>
+> *From:* Miles Worthington <meworthington1@gmail.com>
+> *Sent:* Saturday, February 13, 2021 1:52 PM
+> *To:* Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=EElNx1BEToRgtAPTeoTuT0YLO26NQsjgDRKqWbHixd8&s=u_5v5C3oyLxqkS8Gfs1vIgZwZVXZcQLtOL9O15lEcE8&e=>
+> *Subject:* Android Support - 2/13/21
+>
+>
+>
+> Hi,
+>
+>
+>
+> I've been having issues accessing my 31-day pass, on my phone, since
+> yesterday. The pass is in my app under "available", but when I click on it
+> my screen goes black and the app crashes.
+>
+> And on a semi-related note, I've also tried buying two of the $2.50 day
+> passes through the app via Google Pay, but got two "order failed" messages.
+> However, my card was still charged it seems, so I may need a refund on
+> those.
+>
+>
+>
+> Thanks for any help!
+>
+>
+>
+> Miles Worthington
+> meworthington1@gmail.com
+> App Name: Capital Metro
+> App Version : 4.31.2 1057
+> OS Version : 11
+>
+>

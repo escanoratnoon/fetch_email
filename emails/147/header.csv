@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+147 (RFC822 {204195},"Sun, 14 Feb 2021 14:03:14 -0600",John Woodley,johnmwoodley@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Cold Weather Shelters Activated,True,False,None

@@ -54,7 +54,6 @@ for dir in dirs_to_iter:
 
     data.loc[0, 'content'] = list_of_replies[0]
     data.to_csv(dir + '/header.csv', index=False)
-
     list_of_replies.pop(0)
 
     count = 1
@@ -122,13 +121,13 @@ for dir in dirs_to_iter:
             reply_file.write(list_item)
 
         with open(f'reply_{count}.csv', mode='w+') as csv_file:
-            fieldnames = ['id', 'date', 'sender_name', 'sender_email', 'receiver_name', 'receiver_email',
+            fieldnames = ['id', 'timestamp', 'sender_name', 'sender_email', 'receiver_name', 'receiver_email',
                           'subject', 'is_threaded', 'is_forwarded', 'content']
             writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
             writer.writeheader()
-            writer.writerow({'id': None, 'date': date, 'sender_name': sender_name, 'sender_email': sender_email,
+            writer.writerow({'id': 'None', 'timestamp': date, 'sender_name': sender_name, 'sender_email': sender_email,
                              'receiver_name': receiver_name, 'receiver_email': receiver_email,
-                             'subject': subject, 'is_threaded': 'True', 'is_forwarded': None,
+                             'subject': subject, 'is_threaded': 'True', 'is_forwarded': 'None',
                              'content': focus_string})
 
         count += 1

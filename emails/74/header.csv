@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+74 (RFC822 {16528},"Fri, 12 Feb 2021 23:10:27 +0100",Stephen Alexander,alexandersn38@mail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,My e-ticket has disappeared!,False,False,None

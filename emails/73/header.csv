@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+73 (RFC822 {18521},"Fri, 12 Feb 2021 16:04:22 -0600",Matthew Williamson,matt@bigskillet.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Electric Bus Manufacturer,False,False,None

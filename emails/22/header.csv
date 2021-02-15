@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+22 (RFC822 {16954},"Tue, 9 Feb 2021 20:59:41 -0600",Helen Macdonald,helenmacd1962@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Lost bike,False,False,None

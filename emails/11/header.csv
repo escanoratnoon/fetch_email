@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+11 (RFC822 {57673},"Tue, 9 Feb 2021 18:04:33 +0000",Barnes Gloria,Gloria.Barnes@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Physical Day Pass Purchase,True,False,None

@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+10 (RFC822 {33278},"Tue, 9 Feb 2021 17:51:33 +0000",tyler banner,crossfluid@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Complaint,True,False,None

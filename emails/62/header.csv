@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+62 (RFC822 {17483},"Fri, 12 Feb 2021 09:02:53 -0600",G Rivas,dept.research7103volunteer@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"Bus Driver, Possible Witness",False,False,None

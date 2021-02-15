@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+145 (RFC822 {15212},"Sun, 14 Feb 2021 10:47:33 -0600",Yvette M Palladino,veggievette@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Train service Monday???,False,False,None

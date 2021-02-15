@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+156 (RFC822 {16984},"Sun, 14 Feb 2021 22:57:01 -0600",Dana Cunningham,danacunningham5@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,None

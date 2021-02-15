@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+91 (RFC822 {22978},"Sat, 13 Feb 2021 05:01:08 +0000",Mobley Tangee,Tangee.Mobley@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"FW: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)",False,False,None

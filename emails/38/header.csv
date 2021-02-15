@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+38 (RFC822 {20787},"Wed, 10 Feb 2021 19:09:18 +0000",Steve Combs,sjcombs@LIVE.COM,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Off-line Busses: Auctions,False,False,None

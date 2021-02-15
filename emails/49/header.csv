@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+49 (RFC822 {19846},"Thu, 11 Feb 2021 11:09:54 -0600",,info@circlecranch.info,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Tag,True,False,None

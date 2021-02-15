@@ -64,7 +64,7 @@ for i in reversed(range(messages_count)):
             #                  f'ID: {ID}')
 
             with open('header.csv', mode='w') as csv_file:
-                fieldnames = ['id', 'date', 'sender_name', 'sender_email', 'receiver_name', 'receiver_email',
+                fieldnames = ['id', 'timestamp', 'sender_name', 'sender_email', 'receiver_name', 'receiver_email',
                               'subject', 'is_threaded', 'is_forwarded', 'content']
                 writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
                 writer.writeheader()
@@ -78,7 +78,7 @@ for i in reversed(range(messages_count)):
                     sender_name = None
                     sender_email = re.sub(r'[<>]', '', sender)
                     print('Name:', sender_name, 'Email:', sender_email)
-                writer.writerow({'id': ID, 'date': date, 'sender_name': sender_name, 'sender_email': sender_email,
+                writer.writerow({'id': ID, 'timestamp': date, 'sender_name': sender_name, 'sender_email': sender_email,
                                  'receiver_name': 'Capmetro Customer Support', 'receiver_email': 'capmetro.customersupport@alphavu.com',
                                  'subject': subject, 'is_threaded': is_threaded, 'is_forwarded': is_forwarded, 'content': 'None'})
 
@@ -88,10 +88,11 @@ for i in reversed(range(messages_count)):
                     os.chdir(PATH + index)
                     content_type = part.get_content_type()
                     content_disposition = str(part.get('Content-Disposition'))
-                    body = part.get_payload(decode=True).decode()
-                    # except:
-                    #     print('Body not found for',sender_email, 'subject:', subject)
-                    #     continue
+                    try:
+                        body = part.get_payload(decode=True).decode()
+                    except:
+                        print('Body not found for', sender_email, 'subject:', subject)
+                        continue
                     if content_type == 'text/plain' and 'attachment' not in content_disposition:
                         with open('body.txt', 'w+') as file:
                             file.write(str(body))

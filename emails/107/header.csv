@@ -1,0 +1,2 @@
+id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+107 (RFC822 {16719},"Sat, 13 Feb 2021 11:25:15 -0600",Grayson Leach,grayson.leach1117@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/13/21,False,False,None
