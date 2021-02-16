@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-68 (RFC822 {17425},"Fri, 12 Feb 2021 13:07:19 -0600",Luke Morris,lokithemaker@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+68 (RFC822 {21094},62a872cf-7745-44b1-8b15-bd800ac1fa66,Android Support - 2/12/21,"Fri, 12 Feb 2021 20:30:50 +0000 (UTC)",Levera Mejia,lmdancwg@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,"Will route 50, 150, 52, 51 and 135 be running on Monday 2-15-21Thanks
+Levera Mejia
+lmdancwg@yahoo.com
+App Name: Capital Metro
+App Version : 4.31.2 1057
+OS Version : 7.0Sent from Yahoo Mail on Android
+"

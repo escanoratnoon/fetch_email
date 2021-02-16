@@ -1,2 +1,12 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-106 (RFC822 {16740},"Sat, 13 Feb 2021 11:01:23 -0600",David Locke,davidlockeus@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+106 (RFC822 {16719},b8324a5b-3a1a-4a8c-9f3e-4d842600fb19,iOS Support - 2/13/21,"Sat, 13 Feb 2021 11:25:15 -0600",Grayson Leach,grayson.leach1117@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/13/21,False,False,"Hi there, my tickets are not loading on my app,
+I’m afraid this will affect my commute to work and back.
+Thanks,
+Grayson Leach
+grayson.leach@icloud.com
+App Version: 4.023 2
+OS Version: 14.4
+Grayson Leach
+(214) 592-3813
+Grayson.leach1117@gmail.com
+"

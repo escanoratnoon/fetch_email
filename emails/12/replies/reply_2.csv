@@ -1,0 +1,2 @@
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+None,bd85643e-8e12-402b-be88-4f13ed3eece0,RE: Physical Day Pass Purchase,"Tuesday, February 9, 2021 11 43 AM",Vigier Guillaume,Guillaume.Vigier@capmetro.org,Barnes Gloria,Gloria.Barnes@capmetro.org,FW  Physical Day Pass Purchase,True,None,"FYI, they would like to sign up for DPP"

@@ -1,2 +1,5 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-155 (RFC822 {21530},"Mon, 15 Feb 2021 03:33:57 +0000",Nikpas .,nikpas@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Request 5 Bus System Maps,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+155 (RFC822 {16984},a0be28f0-892a-4afa-a01c-fa64d613b37c,Android Support - 2/14/21,"Sun, 14 Feb 2021 22:57:01 -0600",Dana Cunningham,danacunningham5@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,"Dana Cunninghamdanacunningham5@gmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 10
+Hi, I purchased a bus pass today at 6:30 and the bus never
+showed up due to the weather conditions. Can they refund me? Since I never used the pass.
+"

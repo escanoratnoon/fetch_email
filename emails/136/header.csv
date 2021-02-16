@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-136 (RFC822 {21173},"Sat, 13 Feb 2021 19:52:43 -0600",sarah marks,sm.marks11@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Mobile App Issue Resolved,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+136 (RFC822 {22824},6a812a7e-6093-4680-98ac-ba2e9e3ac6e3,buses still running?,"Sun, 14 Feb 2021 02:01:22 +0000",Doug McHugh,dmac22@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,buses still running?,False,False,"Sent from
+Mail for Windows 10
+"

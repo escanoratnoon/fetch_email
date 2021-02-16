@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-129 (RFC822 {764014},"Sun, 14 Feb 2021 00:20:48 +0000",Cynthia Leyva,cyn182@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/12/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+129 (RFC822 {767279},92ae5539-6de5-4753-9a8f-0206de4d5e7c,Re: Android Support - 2/12/21,"Sun, 14 Feb 2021 00:23:37 +0000",Cynthia Leyva,cyn182@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/12/21,True,False,"It charged me for 4 passes 3 monthly and one daily. I only needed 1 monthly.
+Get Outlook for Android
+"

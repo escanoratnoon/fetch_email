@@ -1,2 +1,7 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-154 (RFC822 {63236},"Mon, 15 Feb 2021 03:15:56 +0000",Customer Service,Customer.Service@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: iOS Support - 2/14/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+154 (RFC822 {21530},9479b1cb-8302-4862-a44a-03886d6d8a92,Request 5 Bus System Maps,"Mon, 15 Feb 2021 03:33:57 +0000",Nikpas .,nikpas@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Request 5 Bus System Maps,False,False,"Please send me 5 Bus System Maps of the City Buses and Rail Service
+in Austin. Please send it to
+Nicky Paspalaris
+13146 W. Finger Aloe St.
+Tucson, AZ 85743
+"

@@ -1,2 +1,10 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-71 (RFC822 {29714},"Fri, 12 Feb 2021 20:41:31 +0000",Customer Service,Customer.Service@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Free Fares during Cold Snap,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+71 (RFC822 {18324},75633835-fec3-4ca8-b707-304acc9d0d97,Pick up point Austin Annexed area,"Fri, 12 Feb 2021 14:50:25 -0600",Dawn Trenholm Colvin,dtmdawncolvin@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Pick up point Austin Annexed area,False,False,"Good
+afternoon, my husband and I are grateful that you do pick up in our neighborhood.
+I am reaching out to see if I can follow up with someone about increasing the pick up area. I ask this because of days like
+this when it is extremely cold.We are requesting that he be picked up at 706 Sly Pass, Austin, TX 78748The driver's actual pass near our house. If they turned on Archdale and turned right on Sly Pass they would be facing in the correct direction to leave the neighborhood.We understand the distance barrier. Is there anyway to update that so that drivers can pick him up from home please?Thank you in
+advance
+for your help in this matter. We appreciate any help you can provide.
+Sincerely grateful,
+Dawn Trenholm Colvin(512) 909-1389
+"

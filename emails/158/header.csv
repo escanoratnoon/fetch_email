@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-158 (RFC822 {20334},"Sun, 14 Feb 2021 23:08:32 -0600",Matt Garcia,matt.garcia78741@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: iOS Support - 2/14/21 BUS ROUTE 271,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+158 (RFC822 {32446},e9bb2460-93c8-425c-a14b-b9aca06a89c4,"Re: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)","Mon, 15 Feb 2021 05:10:16 +0000",Mobley Tangee,Tangee.Mobley@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"Re: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)",True,False,"Thanks John,
+Tangee Mobley
+Vice President Bus Operations and Maintenance Capital Metro
+507 Calles Street Suit 116, Austin TX 78702
+Email: tangee.mobley@capmetro.org
+Desk: 512.389.7535
+"

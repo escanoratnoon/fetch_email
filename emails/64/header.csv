@@ -1,2 +1,6 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-64 (RFC822 {17015},"Fri, 12 Feb 2021 10:01:05 -0600",cameron willis,cameron346@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+64 (RFC822 {17341},c647e5f2-cd7f-4306-85dd-2753c36c42c4,Need suggestions soon please,"Fri, 12 Feb 2021 10:12:22 -0600",Frances pierson,fapierson1949@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Need suggestions soon please,False,False,"I have been offered a job at IRS on south IH35. They offered me the second shift. I use the city bus for all my transportation.
+ I do not drive. I can get to work fine but I
+ don't get off till 1230. The last bus leaves at 1145 headed back north where I
+ live.Please answer soon as possible as I must accept or reject job.
+"

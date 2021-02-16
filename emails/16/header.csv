@@ -1,2 +1,14 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-16 (RFC822 {98421},"Tue, 9 Feb 2021 20:55:16 +0000",Customer Service,Customer.Service@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Android Support - 2/9/21-One time courtesy,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+16 (RFC822 {52609},4a5db8d7-0020-4d3c-bb54-3a7dec1854ac,RE: app not installing from store to phone.,"Tue, 9 Feb 2021 21:51:28 +0000",Garcia Carol,Carol.Garcia@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,"Have you tried signing out of the app and then signing back in? Try the following steps.
+Log out of the device
+Wait a minute and log back in
+Tap the three horizontal line menu in the left-hand corner of the screen
+Tap More
+Tap Ticket Storage; the ticket should show saved to the cloud
+Tap the icon to the right of the ticket to save it to the device
+Thank you,
+Carol Garcia
+Customer Service
+Sign Up for MetroAlerts and find out about service disruptions as soon as they happen. By email or straight to your phone.
+https://www.capmetro.org/metroalerts/
+"

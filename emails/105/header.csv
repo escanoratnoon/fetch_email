@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-105 (RFC822 {24515},"Sat, 13 Feb 2021 10:13:57 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Android Support - 2/12/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+105 (RFC822 {16740},394d2506-1dad-4785-be54-0816f1f4e315,Android Support - 2/13/21,"Sat, 13 Feb 2021 11:01:23 -0600",David Locke,davidlockeus@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,"My app is bugging. I can't open my ticket. I need it to go to work.
+David Lockehappynettleboy@gmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 11
+"

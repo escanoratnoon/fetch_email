@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-99 (RFC822 {20849},"Sat, 13 Feb 2021 14:23:50 +0000 (UTC)",scott russell,walt452002@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+99 (RFC822 {15356},20bea900-fc93-4620-bd2c-3ee209491138,iOS Support - 2/13/21,"Sat, 13 Feb 2021 09:07:56 -0600",Rick Meador,r.meador@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/13/21,False,False,"Any chance of recovering a lost glove and head covering from express bus ride on Thursday from downtown to Leander on a bus that arrived at 3:35 pm that day.
+Rick Meador
+rickdmeador@gmail.com
+App Version: 4.023 2
+OS Version: 14.4
+Sent from my iPhone
+"

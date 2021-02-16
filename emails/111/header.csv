@@ -1,2 +1,6 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-111 (RFC822 {17719},"Sat, 13 Feb 2021 13:51:54 -0600",Miles Worthington,meworthington1@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+111 (RFC822 {16753},59cee553-5212-4f90-b47b-af53a726d104,My e-ticket has disappeared!,"Sat, 13 Feb 2021 21:24:14 +0100",Stephen Alexander,alexandersn38@mail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,My e-ticket has disappeared!,False,False,"Good day.
+I just bought a $41 31-day ticket Wednesday and used it Wednesday and Thursday. It said it was good through 3/13. Today I go to board the bus and the app says I have no active tickets. What gives! If I can't use the e-ticket then I want my money refunded.
+Please find out what's going on with your system, because I rely on the bus to get to and from work. I don't mind paying cash, but I need to know that I'll need some.
+Thank you very much.
+"

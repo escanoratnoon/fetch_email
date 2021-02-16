@@ -1,0 +1,2 @@
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+None,6fe0a0b4-311e-41fb-a209-2434f26f656b,RE: Android Support - 2/12/21,"Friday, February 12, 2021 4 30 PM",Guy Burton,guyburton@live.com,Customer Service,Customer.Service@capmetro.org,Android Support - 2/12/21,True,None,Guy Burtonguyburton@live.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 10App is not displaying ticket to show to bus driverWhen I select it it only shows a black screen with no info

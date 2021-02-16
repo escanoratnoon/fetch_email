@@ -1,2 +1,6 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-25 (RFC822 {22272},"Wed, 10 Feb 2021 11:58:55 +0000 (UTC)",Sandra Nino,sandra.nino@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Bus Driver,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+25 (RFC822 {3800297},23918d0d-9333-42aa-b7ce-354bc3eca08a,"I began this cordial. Now Thanks to Austin I will FOREVER HATE TEXAS
+ AS A IDIOT SCUMBAG DUMPING GROUND for breeding the Inept or Criminal.
+ Spray/Lockdown/CULL/arrest and eradicate Already!","Wed, 10 Feb 2021 04:38:55 +0500",Intel Lectual,soldierofsanity69@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"I began this cordial. Now Thanks to Austin I will FOREVER HATE TEXAS
+ AS A IDIOT SCUMBAG DUMPING GROUND for breeding the Inept or Criminal.
+ Spray/Lockdown/CULL/arrest and eradicate Already!",False,False,

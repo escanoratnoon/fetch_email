@@ -1,2 +1,12 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-4 (RFC822 {17246},"Tue, 9 Feb 2021 13:29:56 +0500",Mohsin Ali,mohsin.alphavu@nxvt.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Threaded Email Testing 1,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+4 (RFC822 {17246},a802508b-946e-4a1b-af09-4f898308a3a1,Re: Threaded Email Testing 1,"Tue, 9 Feb 2021 13:29:56 +0500",Mohsin Ali,mohsin.alphavu@nxvt.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Threaded Email Testing 1,True,False,"Lorem Ipsum is simply dummy text of the printing
+and typesetting industry. Lorem Ipsum has been the industry's
+standard dummy text ever since the 1500s, when an unknown printer
+took a galley of type and scrambled it to make a type specimen
+book. It has survived not only five centuries, but also the leap
+into electronic typesetting, remaining essentially unchanged. It
+was popularised in the 1960s with the release of Letraset sheets
+containing Lorem Ipsum passages, and more recently with desktop
+publishing software like Aldus PageMaker including versions of
+Lorem Ipsum.
+"

@@ -1,0 +1,2 @@
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+None,0e41af24-8bad-40bd-be6f-a31fd4a4a36c,RE: Inquiry,"Tuesday, February 9, 2021 11 32 AM",Customer Service,Customer.Service@capmetro.org,Kareithi Martin,martin.kareithi@capmetro.org,FW  Inquiry,True,None,"Mr. Kareithi,Are you able to assist this customer with their inquiry regarding a medical exemption from wearing a mask, and wanting to utilize our services.Thank you,John Torres"

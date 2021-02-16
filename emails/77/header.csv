@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-77 (RFC822 {746199},"Fri, 12 Feb 2021 23:03:27 +0000",Cynthia Leyva,cyn182@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+77 (RFC822 {17064},f24a58db-21b8-4768-8b25-963ceaf200cc,Android Support - 2/12/21,"Fri, 12 Feb 2021 17:12:28 -0600",Z bdot,hpt757@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,"z bhpt757@gmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 9
+Hello,My monthly pass that i have been using is not showing up in the app anymore. It doesn't expire for another week and i dont know how to fix it.
+"

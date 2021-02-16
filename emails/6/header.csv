@@ -1,2 +1,7 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-6 (RFC822 {20297},"Tue, 9 Feb 2021 16:45:39 +0500",Mohsin Ali,mohsin.alphavu@nxvt.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Fwd: Re: Threaded Email Testing 1,True,True,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+6 (RFC822 {20297},725d1c27-ccb6-49eb-aa3c-f8127a2b7617,Fwd: Re: Threaded Email Testing 1,"Tue, 9 Feb 2021 16:45:39 +0500",Mohsin Ali,mohsin.alphavu@nxvt.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Fwd: Re: Threaded Email Testing 1,True,True,"-------- Forwarded Message --------
+Subject:
+Re: Threaded Email Testing 1
+Date:
+Tue, 09 Feb 2021 16:38:17 +0500
+"

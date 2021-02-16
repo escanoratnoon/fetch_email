@@ -4,6 +4,8 @@ import email
 from email.header import decode_header
 import csv
 import re
+import uuid
+import pandas
 
 PATH = '/home/mohsinali/Projects/Alphavu/fetch_email/emails/'
 USERNAME = os.getenv('IMAP_ADDRESS')
@@ -23,6 +25,12 @@ messages_count = int(messages_count[0])
 if status == 'OK':
     print('Connection established.')
     print(f'{messages_count} mails found.')
+
+with open(PATH + 'emails.csv', mode='w+') as email_csv:
+    fieldnames = ['email_id', 'thread_id', 'thread_name', 'timestamp', 'sender_name', 'sender_email',
+                  'receiver_name', 'receiver_email', 'subject', 'is_threaded', 'is_forwarded', 'content']
+    emails_writer = csv.DictWriter(email_csv, fieldnames=fieldnames)
+    emails_writer.writeheader()
 
 for i in reversed(range(messages_count)):
     index = str(i + 1)
@@ -62,9 +70,10 @@ for i in reversed(range(messages_count)):
             # with open('header.txt', 'w+') as header:
             #     header.write(f'is_threaded: {is_threaded}\nSender: {sender}\nSubject: {subject}\nis_forwarded: {is_forwarded}\n'
             #                  f'ID: {ID}')
-
+            thread_id = str(uuid.uuid4())
             with open('header.csv', mode='w') as csv_file:
-                fieldnames = ['id', 'timestamp', 'sender_name', 'sender_email', 'receiver_name', 'receiver_email',
+                fieldnames = ['email_id', 'thread_id', 'thread_name', 'timestamp', 'sender_name', 'sender_email',
+                              'receiver_name', 'receiver_email',
                               'subject', 'is_threaded', 'is_forwarded', 'content']
                 writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
                 writer.writeheader()
@@ -78,9 +87,13 @@ for i in reversed(range(messages_count)):
                     sender_name = None
                     sender_email = re.sub(r'[<>]', '', sender)
                     print('Name:', sender_name, 'Email:', sender_email)
-                writer.writerow({'id': ID, 'timestamp': date, 'sender_name': sender_name, 'sender_email': sender_email,
-                                 'receiver_name': 'Capmetro Customer Support', 'receiver_email': 'capmetro.customersupport@alphavu.com',
-                                 'subject': subject, 'is_threaded': is_threaded, 'is_forwarded': is_forwarded, 'content': 'None'})
+                writer.writerow({'email_id': ID, 'thread_id': thread_id, 'thread_name': subject, 'timestamp': date,
+                                 'sender_name': sender_name, 'sender_email': sender_email,
+                                 'receiver_name': 'Capmetro Customer Support',
+                                 'receiver_email': 'capmetro.customersupport@alphavu.com',
+                                 'subject': subject, 'is_threaded': is_threaded, 'is_forwarded': is_forwarded,
+                                 'content': 'None'})
+
 
             if msg.is_multipart():
                 multipart_ = True

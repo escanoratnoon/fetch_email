@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-157 (RFC822 {24559},"Mon, 15 Feb 2021 05:08:16 +0000",Customer Service,Customer.Service@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"RE: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)",True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+157 (RFC822 {20334},a80c55aa-149f-4d9d-983d-792bc8f68ab0,Re: iOS Support - 2/14/21 BUS ROUTE 271,"Sun, 14 Feb 2021 23:08:32 -0600",Matt Garcia,matt.garcia78741@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: iOS Support - 2/14/21 BUS ROUTE 271,True,False,"Sorry but does that include 271? And do you mean it will resume @ 7 am tomorrow?
+Sent from my iPhone
+"

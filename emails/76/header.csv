@@ -1,2 +1,11 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-76 (RFC822 {653586},"Fri, 12 Feb 2021 16:36:12 -0600",J Cruz,jessicajcruz777@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+76 (RFC822 {746199},302e60b4-41fc-4471-a8fa-4156ef6845a2,Android Support - 2/12/21,"Fri, 12 Feb 2021 23:03:27 +0000",Cynthia Leyva,cyn182@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,"Cynthia Anahi Leyva Garcia
+cyn182@hotmail.com
+App Name: Capital MetroApp Version : 4.31.2 1057n
+OS Version : 10
+Get Outlook for Android
+I tried to purchase a new monthly pass and it said my transaction was cancelled to try again. So I did. 3 times. Then I decided to wait. Tried riding the bus and my active monthly
+pass was erased. Tried purchasing a daily pass and it also said transaction was
+cancelled to try again. Ended up buying a daily pass cash to ride bus. I looked on my bank account and all the passes were charged. But when I log in to the Cap Metro App
+it shows no available passes. How can I resolve this issue?? And May I please get a refund for my money?? Thank you!
+"

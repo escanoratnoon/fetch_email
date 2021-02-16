@@ -1,2 +1,7 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-156 (RFC822 {16984},"Sun, 14 Feb 2021 22:57:01 -0600",Dana Cunningham,danacunningham5@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+156 (RFC822 {24559},49bd9193-1f30-4b7a-bdd6-458380c6e437,"RE: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)","Mon, 15 Feb 2021 05:08:16 +0000",Customer Service,Customer.Service@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"RE: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)",True,False,"Good evening,
+CCR-77552-Q9Y0J8, and CCR-77553-F2Y4L0 created, and submitted to Bus North Ops.
+Thank you,
+John Torres
+-----Original Message-----
+"

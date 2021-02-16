@@ -1,2 +1,6 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-22 (RFC822 {16954},"Tue, 9 Feb 2021 20:59:41 -0600",Helen Macdonald,helenmacd1962@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Lost bike,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+22 (RFC822 {322888},cd8ee70b-62ed-4ac3-9dd6-b45947335cf1,Re: Downtown station map request,"Wed, 10 Feb 2021 07:11:43 +0500",Michael Calcagno,michaelcalcagno@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Downtown station map request,True,False,"Mr. Torres,
+Thank you for your quick response. However, that's not what I asked. I asked for an track diagram. Perhaps forwarding this email to someone with an engineering or track operations?
+Thanks,
+Michael Calcagno
+"

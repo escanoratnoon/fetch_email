@@ -1,2 +1,2 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-143 (RFC822 {104380},"Sun, 14 Feb 2021 15:18:52 +0000 (UTC)",Proofpoint Essentials,do-not-reply@cloud-protect.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Quarantine List - GoDaddy Email Encryption,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+143 (RFC822 {27211},8980a3f9-948d-4e06-acb7-9f8c2f993c51,RE: Android Support - 2/12/21,"Sun, 14 Feb 2021 10:30:09 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Android Support - 2/12/21,True,False,

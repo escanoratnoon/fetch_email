@@ -1,2 +1,2 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-17 (RFC822 {52609},"Tue, 9 Feb 2021 21:51:28 +0000",Garcia Carol,Carol.Garcia@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+17 (RFC822 {23433},391b98e9-c976-4cbb-8277-f5b1d1dc8961,Re: Are you guys available in the weekend,"Tue, 9 Feb 2021 16:43:23 -0600",Killer Winter,killerwinter80@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Are you guys available in the weekend,True,False,

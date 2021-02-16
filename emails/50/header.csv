@@ -1,2 +1,9 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-50 (RFC822 {43024},"Thu, 11 Feb 2021 11:33:23 -0600",dresfacekick,dresfacekick@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+50 (RFC822 {51908},aa5557f7-4660-4237-863a-a22bf7bb127c,RE: app not installing from store to phone.,"Thu, 11 Feb 2021 12:11:19 -0600",dresfacekick,dresfacekick@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,"I already did, no solution.
+Sent from my Sprint Samsung Galaxy S10.-------- Original message --------From: Customer Service Customer.Service@capmetro.org Date: 2/11/21  11:50 AM  (GMT-06:00) To: dresfacekick dresfacekick@gmail.com Subject: RE: app not installing from store to phone.
+Unfortunately, we have not had any additional incidents regarding this issue.
+You may want to check with your service provider for information on if there may be something preventing you from purchasing this particular app.
+We apologize for the inconvenience.
+Thank you,
+John Torres
+"

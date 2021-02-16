@@ -1,2 +1,5 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-7 (RFC822 {21120},"Tue, 9 Feb 2021 16:48:01 +0500",Mohsin Ali,mohsin.alphavu@nxvt.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Fwd: Re: Threaded Email Testing 1,True,True,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+7 (RFC822 {20767},6003b757-a35a-4a8a-93f0-a098e49949b1,Physical Day Pass Purchase,"Tue, 9 Feb 2021 11:04:51 -0600",Sierra Adkins,sierra@sanctuaryproject.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Physical Day Pass Purchase,False,False,"Hello,I work for a non profit and we are trying to purchase day bus passes for the women in job training. We would like to have physical
+passes so that we can distribute them to the women when they are needed. Could you please let me know how I can go about making this purchase.Thank you for your time!Kind Regards,
+Sierra AdkinsOffice ManagerSanctuary Project2301 E. Cesar Chavez St., Austin TX 78702Registered 501c3 Non-Profitwww.SanctuaryProject.com512-991-2029
+"

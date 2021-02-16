@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-100 (RFC822 {15356},"Sat, 13 Feb 2021 09:07:56 -0600",Rick Meador,r.meador@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/13/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+100 (RFC822 {15727},08137e77-6769-45b6-abf7-806f904b4f7d,iOS Support - 2/13/21,"Sat, 13 Feb 2021 09:11:36 -0600",Rick Meador,r.meador@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/13/21,False,False,"Any chance of finding a glove and Northface head covering on a bus the went from downtown to Leander on 2/11 that arrived at 3:35 pm. Don’t remember the bus number.
+Rick Meador
+rickdmeador@gmail.com
+App Version: 4.023 2
+OS Version: 14.4
+Sent from my iPhone
+"

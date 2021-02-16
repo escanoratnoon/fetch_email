@@ -1,2 +1,10 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-61 (RFC822 {93004},"Fri, 12 Feb 2021 14:07:06 +0000",Kaplan Rich,Rich.Kaplan@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+61 (RFC822 {17483},58c4dbd0-b0e1-44fd-ba44-c8295b0a7788,"Bus Driver, Possible Witness","Fri, 12 Feb 2021 09:02:53 -0600",G Rivas,dept.research7103volunteer@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"Bus Driver, Possible Witness",False,False,"Good morning. Would appreciate any assistance you can provide on my situation....
+ 
+
+ 
+ I was in an automobile accident between 5am-5:30am. The incident involved a hit and run. There was a bus right behind me. Just wondering if any drivers documented, or made a call, and if there is footage available.
+
+ 
+ Traveling East on HWY 71, near Bergstrom International Airport. Between Presidential Blvd and 973.Thank you for your time.
+"

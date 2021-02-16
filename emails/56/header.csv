@@ -1,2 +1,7 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-56 (RFC822 {24933},"Thu, 11 Feb 2021 18:43:07 -0600",Blake Phillips,blakesterama@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/10/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+56 (RFC822 {16223},f02689c2-5f1d-4403-8bac-211c6abe3566,iOS Support - 2/11/21,"Thu, 11 Feb 2021 19:40:43 -0600",Nikolai Romanov,nikolaicarter1234@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/11/21,False,False,"Nikolai Roman
+nikolaicarter1234@gmail.com
+App Version: 4.023 2
+OS Version: 12.4.8
+Can you please unlock my passes? I only wanted to try to reset my app because it kept crashing. Why do the passes lock now?
+"

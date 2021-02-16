@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-63 (RFC822 {96742},"Fri, 12 Feb 2021 15:43:15 +0000 (UTC)",Proofpoint Essentials,do-not-reply@cloud-protect.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Quarantine List - GoDaddy Email Encryption,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+63 (RFC822 {17015},f395d67c-83a9-41c4-ad09-b2c5c4417506,Android Support - 2/12/21,"Fri, 12 Feb 2021 10:01:05 -0600",cameron willis,cameron346@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,"Cameron Williscameron346@gmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 11Bought a ticket a while
+ago, and had to reset my phone could I get the ticket back?Thanks,Cameron Willis
+"

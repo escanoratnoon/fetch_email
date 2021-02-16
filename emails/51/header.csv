@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-51 (RFC822 {51908},"Thu, 11 Feb 2021 12:11:19 -0600",dresfacekick,dresfacekick@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+51 (RFC822 {15046},7edd15b7-03c8-4b5f-a6cd-8a6f8305a3d2,Snow storm routing ,"Thu, 11 Feb 2021 12:21:44 -0600",Linda Vara,lindadujour@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Snow storm routing ,False,False,"Is the a bus going from Guadalupe /4 to Leander at 4:30 ?
+Sent from my iPhone
+"

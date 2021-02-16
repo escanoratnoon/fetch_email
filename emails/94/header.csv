@@ -1,2 +1,5 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-94 (RFC822 {18218},"Sat, 13 Feb 2021 06:56:48 -0600",edgardo,mark245pineapple@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+94 (RFC822 {21951},e8e2ae20-b982-4d1a-af99-4286dd16f051,Android Support - 2/13/21,"Sat, 13 Feb 2021 07:45:08 -0600",Jacob Juarez,snake007_jj@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,"Hello!
+I know this is a difficult time with weather, health, and city growth. But I desperately need help. My 31 day pass for this month has disappeared from my available tickets list, although its expiration is 2/26. Also, when I was trying to board this morning I attempted to purchase two(2) single passes where I have the separate charge notifications from my bank, but was given an error message and no access to tickets. I've uninstalled the app from my phone several times, cleared my cache, and power cycled my phone with no positive effect. If there is anything that can be done to retrieve my passes, I will greatly appreciate your assistance. Thank you for your time and effort.
+Be well,Jacob Juarezsnake007_jj@hotmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 10 p
+"

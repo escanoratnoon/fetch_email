@@ -1,2 +1,5 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-13 (RFC822 {58058},"Tue, 9 Feb 2021 19:05:57 +0000",Customer Service,Customer.Service@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Physical Day Pass Purchase,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+13 (RFC822 {97787},3c289f98-ca3e-4d7b-a757-4d6c8d1c1016,RE: Android Support - 2/9/21-One time courtesy,"Tue, 9 Feb 2021 19:35:01 +0000",Wood Marcella,Marcella.Wood@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Android Support - 2/9/21-One time courtesy,True,False,"John,
+ so the customer did activate all the passes on the same day, not sure why, but they were not locked because they were being used.
+ Let the customer know as a onetime courtesy we will credit back two of the passes that were activated.
+"

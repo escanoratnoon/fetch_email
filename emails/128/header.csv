@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-128 (RFC822 {40066},"Sat, 13 Feb 2021 18:16:31 -0600",MELINDA SMITH,dsg_n8@outlook.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/12/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+128 (RFC822 {764014},46b72711-9ea0-4e06-92ed-0973cd3391d5,Re: Android Support - 2/12/21,"Sun, 14 Feb 2021 00:20:48 +0000",Cynthia Leyva,cyn182@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/12/21,True,False,"Great, thank you so much! I appreciate your help very much!
+Get Outlook for Android
+"

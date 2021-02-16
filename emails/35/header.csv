@@ -1,2 +1,9 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-35 (RFC822 {18725},"Wed, 10 Feb 2021 12:14:24 -0600",EDWARD CATES,edcates@prodigy.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Parked buses ,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+35 (RFC822 {18753},dbca24f5-8fd5-443e-bc94-2d6477416f57,iOS Support - 2/10/21,"Wed, 10 Feb 2021 12:48:49 -0600",Lyle Williamson,lylemw@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/10/21,False,False,"I bought the senior discount card but don’t know how to use it with your app. Can you tell me how to buy a ticket on the app getting the discount?
+Thanks
+Lyle Williamson
+Lylemw@yahoo.com
+App Version: 4.023 2
+OS Version: 14.4
+Sent from my iPhone
+"

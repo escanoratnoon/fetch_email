@@ -1,2 +1,11 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-20 (RFC822 {5562208},"Tue, 9 Feb 2021 18:41:32 -0600",,ventas@rieles.us,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RIEMSA Track Materials,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+20 (RFC822 {75392},fe143844-4b09-4cf6-be22-fb569e9baa3e,iOS Support - 2/9/21,"Wed, 10 Feb 2021 06:25:34 +0500",Eraclio N Diaz,eraclius84@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/9/21,False,False,"Dear Metro,
+While using the metro app, did accidentally charge me two passes at the same time as you can see on the picture below both passes will expire on the same day- please refund me the the amount for one pass.
+R/
+Eraclius Diaz
+MetroAccess ID 71360
+Eraclius84@gmail.com
+App Version: 4.023 2
+OS Version: 14.4
+Sent from Eraclio's iPhone 7 Plus
+"

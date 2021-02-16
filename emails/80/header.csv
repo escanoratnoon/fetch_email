@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-80 (RFC822 {16836},"Fri, 12 Feb 2021 18:21:09 -0600",Charles ted garza,garzacharlested@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+80 (RFC822 {2677498},bd2d52a7-5e17-4312-8742-8a8b41de1e71,Bad operator again,"Sat, 13 Feb 2021 00:30:21 +0000 (UTC)",chen r-syu,rsyuchen@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Bad operator again,False,False,"Hi,dear:I report to the operator that a gentleman seated
+ at the last row did not cover his mouth and drunk beer.The operator do nothing.The bus number is Rapid 8015014.The operator I'd number is 310880.Time is 6:25pm.Thank you for your attention.Stay safe.Regards, Chen.
+"

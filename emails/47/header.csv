@@ -1,2 +1,3 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-47 (RFC822 {19711},"Thu, 11 Feb 2021 16:23:55 +0000 (UTC)",Bruce Johnson,bjohns97@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,ticket recovery,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+47 (RFC822 {28565},26118465-77b6-4a61-9e2b-29e60677b9f2,Re: ticket recovery,"Thu, 11 Feb 2021 17:00:44 +0000 (UTC)",Bruce Johnson,bjohns97@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: ticket recovery,True,False,"I have them now. Thank you, and thanks for such fast service!Bruce
+"

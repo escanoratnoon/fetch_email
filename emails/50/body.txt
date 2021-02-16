@@ -1,5 +1,69 @@
-I still can't download the appSent from my Sprint Samsung Galaxy S10.
--------- Original message --------From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=lGUNwUAvw1VRHsN_Sz9s7cEziBzJZDBu_nbqTSH-yY0&e=> Date: 2/9/21  3:59 PM  (GMT-06:00) To: dresfacekick <dresfacekick@gmail.com> Subject: RE: app not installing from store to phone. 
+I already did, no solution. Sent from my Sprint Samsung Galaxy S10.
+-------- Original message --------From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=> Date: 2/11/21  11:50 AM  (GMT-06:00) To: dresfacekick <dresfacekick@gmail.com> Subject: RE: app not installing from store to phone. 
+
+Unfortunately, we have not had any additional incidents regarding this issue.
+ 
+You may want to check with your service provider for information on if there may be something preventing you from purchasing this particular app.
+ 
+We apologize for the inconvenience.
+ 
+Thank you,
+John Torres
+ 
+
+
+From: dresfacekick <dresfacekick@gmail.com> 
+Sent: Thursday, February 11, 2021 11:33 AM
+To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=>
+Subject: RE: app not installing from store to phone.
+
+
+ 
+
+I still can't download the app
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+Sent from my Sprint Samsung Galaxy S10.
+
+
+
+ 
+
+
+ 
+
+
+-------- Original message --------
+
+
+From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=>
+
+
+
+Date: 2/9/21 3:59 PM (GMT-06:00) 
+
+
+
+To: dresfacekick <dresfacekick@gmail.com>
+
+
+
+Subject: RE: app not installing from store to phone.
+
+
+
+ 
+
 
 We apologize for the inconvenience this has caused you.
  
@@ -9,12 +73,22 @@ Have you tried signing out of the app and then signing back in? Try the followin
 
  
 
-
+·      
 Log out of the device
+
+·      
 Wait a minute and log back in
+
+·      
 Tap the three horizontal line menu in the left-hand corner of the screen
+
+·      
 Tap More
+
+·      
 Tap Ticket Storage; the ticket should show saved to the cloud
+
+·      
 Tap the icon to the right of the ticket to save it to the device
  
  
@@ -23,9 +97,10 @@ John Torres
  
 
 
-From: dresfacekick <dresfacekick@gmail.com> 
+From: dresfacekick <dresfacekick@gmail.com>
+
 Sent: Friday, February 5, 2021 4:33 PM
-To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=lGUNwUAvw1VRHsN_Sz9s7cEziBzJZDBu_nbqTSH-yY0&e=>
+To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=>
 Subject: RE: app not installing from store to phone.
 
 
@@ -57,11 +132,11 @@ Sent from my Sprint Samsung Galaxy S10.
 -------- Original message --------
 
 
-From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=lGUNwUAvw1VRHsN_Sz9s7cEziBzJZDBu_nbqTSH-yY0&e=>
+From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=>
 
 
 
-Date: 2/5/21 2:55 PM (GMT-06:00) 
+Date: 2/5/21 2:55 PM (GMT-06:00)
 
 
 
@@ -86,7 +161,7 @@ Carol Garcia
 Customer Service
  
 Sign Up for MetroAlerts and find out about service disruptions as soon as they happen. By email or straight
- to your phone. https://urldefense.proofpoint.com/v2/url?u=https-3A__www.capmetro.org_metroalerts_&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=SwLh59S8aStuU6YiXVaQ_j5tqj_AmkYoO2BBB54KucQ&e=
+ to your phone. https://urldefense.proofpoint.com/v2/url?u=https-3A__www.capmetro.org_metroalerts_&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=LYezAX4OwcCWltVwAnOC38oMVVc9j55lO6mnWzcz1sw&e=
 
  
 
@@ -94,7 +169,7 @@ Sign Up for MetroAlerts and find out about service disruptions as soon as they h
 From: dresfacekick <dresfacekick@gmail.com>
 
 Sent: Friday, February 5, 2021 2:46 PM
-To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=lGUNwUAvw1VRHsN_Sz9s7cEziBzJZDBu_nbqTSH-yY0&e=>
+To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=>
 Subject: RE: app not installing from store to phone.
 
 
@@ -126,7 +201,7 @@ Sent from my Sprint Samsung Galaxy S10.
 -------- Original message --------
 
 
-From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=lGUNwUAvw1VRHsN_Sz9s7cEziBzJZDBu_nbqTSH-yY0&e=>
+From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=>
 
 
 
@@ -159,7 +234,7 @@ Carol Garcia
 Customer Service
  
 Sign Up for MetroAlerts and find out about service disruptions as soon as they happen. By email or straight
- to your phone. https://urldefense.proofpoint.com/v2/url?u=https-3A__www.capmetro.org_metroalerts_&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=SwLh59S8aStuU6YiXVaQ_j5tqj_AmkYoO2BBB54KucQ&e=
+ to your phone. https://urldefense.proofpoint.com/v2/url?u=https-3A__www.capmetro.org_metroalerts_&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=LYezAX4OwcCWltVwAnOC38oMVVc9j55lO6mnWzcz1sw&e=
 
  
 
@@ -167,7 +242,7 @@ Sign Up for MetroAlerts and find out about service disruptions as soon as they h
 From: dresfacekick <dresfacekick@gmail.com>
 
 Sent: Friday, February 5, 2021 10:38 AM
-To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=1QmBZ2MXeE6MXLyAYBsSqW0e0vQLt22bbk6neWIV16g&s=lGUNwUAvw1VRHsN_Sz9s7cEziBzJZDBu_nbqTSH-yY0&e=>
+To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=7Ptybkh5JFEZDjKDi722DwD6imQcFc2Cprx7QNSsySs&s=44A14tAtVuYtZFHr3f3WJRviXS1Hq2SQjh3j6lhOngI&e=>
 Subject: app not installing from store to phone.
 
 
@@ -192,6 +267,7 @@ Sent from my Sprint Samsung Galaxy S10.
 
 
  
+
 
 
 

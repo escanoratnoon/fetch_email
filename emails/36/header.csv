@@ -1,2 +1,20 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-36 (RFC822 {18753},"Wed, 10 Feb 2021 12:48:49 -0600",Lyle Williamson,lylemw@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/10/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+36 (RFC822 {259599},7d13d5ec-e8c6-46c6-8b07-1cd5f7b788f9,FW: Tag,"Wed, 10 Feb 2021 13:03:02 -0600",Karen Hibpshman,info@circlecranch.info,Capmetro Customer Support,capmetro.customersupport@alphavu.com,FW: Tag,False,False,"To Whom It May Concern
+I received a report that the bus sign was tagged at the intersection of South Bay and Escarpment.  Let me know if you have any questions
+Thanks
+Karen Hibpshman
+Circle C HOA Manager
+7817 La Crosse Avenue
+Austin, Texas 78739
+512.288.8663 phone
+512.288.6488 fax
+Email: info@circlecranch.info
+Website: https://urldefense.proofpoint.com/v2/url?u=http-3A__www.circlecranch.info&d=DwIFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=vCZ2kgRYgM_skmYI-0JXPt-XOTPGie_cNHOjESMCOFY&s=if3as-xjfgt00p_LgHiQn8GkwAu_Ula9dcgba5PGRfQ&e=
+-----Original Message-----
+From: Xavier Martinez xyzj5@aol.com
+Sent: Wednesday, February 10, 2021 11:44 AM
+To: Karen Hibpshman info@circlecranch.info
+Subject: Tag
+Karen here’s a tag on the bus stop sign, probably can be cleaned off?
+This is right b4 South Bay on escarpment...
+"

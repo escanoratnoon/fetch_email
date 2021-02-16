@@ -1,2 +1,7 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-9 (RFC822 {26786},"Tue, 9 Feb 2021 17:38:37 +0000",Kareithi Martin,martin.kareithi@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Inquiry,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+9 (RFC822 {33278},6b924232-f58d-4877-8efd-7095226bc3e3,Re: Complaint,"Tue, 9 Feb 2021 17:51:33 +0000",tyler banner,crossfluid@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Complaint,True,False,"Yes it was the 7-Dual/Dove springs NB, and it was the
+ 2501 Parker/Braxton stop that it happened. A little bit before I message you yesterday. I was on my way to bustop, but not there yet. I waved the bus down. The bus driver saw and
+ pulled over. As I was
+getting closer to the bus, the bus pulled away and drove off before I could get in.
+Get Outlook for Android
+"

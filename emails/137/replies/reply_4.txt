@@ -1,0 +1,16 @@
+From: Miles Worthington meworthington1@gmail.com
+Sent: Saturday, February 13, 2021 1:52 PM
+To: Customer Service Customer.Service@capmetro.org
+Subject: Android Support - 2/13/21
+Hi,
+I've been having issues accessing my 31-day pass, on my phone, since yesterday. The pass is in my app under "available", but when I click on it my screen goes black and the app
+crashes.
+And on a semi-related note, I've also tried buying two of the $2.50 day passes through the app via Google Pay, but got two "order failed" messages. However, my card was still charged
+it seems, so I may need a refund on those.
+Thanks for any help!
+Miles Worthington
+meworthington1@gmail.com
+App Name: Capital Metro
+App Version : 4.31.2 1057
+OS Version : 11
+

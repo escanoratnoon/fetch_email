@@ -1,2 +1,3 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-91 (RFC822 {22978},"Sat, 13 Feb 2021 05:01:08 +0000",Mobley Tangee,Tangee.Mobley@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"FW: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)",False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+91 (RFC822 {16797},f35c5e65-562c-48c2-b7b6-fa9b942f195d,,"Sat, 13 Feb 2021 00:28:07 -0600",Jeffrey Reid,jeffreyreid166@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,,False,False,"My Cap Metro app isn't working at all it keeps closing I can't use my 31 day bus pass and I have another 31 day pass and money in the wallet part of the app I have to go to and from work Please help me
+"

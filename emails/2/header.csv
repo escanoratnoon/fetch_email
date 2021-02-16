@@ -1,2 +1,22 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-2 (RFC822 {57876},"Fri, 05 Feb 2021 09:24:34 -0700",GoDaddy,donotreply@godaddy.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Welcome to Office 365. Let's get started.,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+2 (RFC822 {57876},80045bf3-cb7a-487b-9fdc-39e1cccd9753,Welcome to Office 365. Let's get started.,"Fri, 05 Feb 2021 09:24:34 -0700",GoDaddy,donotreply@godaddy.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Welcome to Office 365. Let's get started.,False,False,"Welcome to Office 365. Let's get started.
+GoDaddy Customer, thanks for choosing GoDaddy. Open this email to read about all the features that come with your new account.
+24/7 Support: +1 (480) 505-8877
+GoDaddy Customer — Customer Number: 24495972
+Microsoft® Office 365 from GoDaddy
+It's time to get connected.
+Thanks for choosing Office 365, GoDaddy Customer. Now you can save time, look professional and get more done no matter where you are:
+Import your contacts
+Put your address book to work. Find out how to move your contact list into Office 365.
+Set up your own calendar
+Never miss an appointment — create a personal calendar that syncs across all your devices.
+Activate the messaging app
+Skype for Business (PC) or Lync (Mac) blend powerful chat and messaging tools with enterprise-level video conferencing.
+Store documents online
+Securely store and share all your important documents in the cloud with OneDrive.
+Questions or comments?
+Reach out to our support team at +1 (480) 505-8877.
+Please do not reply to this email. Emails sent to this address will not be answered.
+Copyright © 1999-2021 GoDaddy Operating Company, LLC. 14455 N. Hayden Rd, Ste. 219, Scottsdale, AZ 85260 USA. All rights reserved.
+4482536013
+"

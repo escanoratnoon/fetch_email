@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-148 (RFC822 {18888},"Sun, 14 Feb 2021 23:56:45 +0100",Stephen Alexander,alexandersn38@mail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: RE: My e-ticket has disappeared!,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+148 (RFC822 {18643},91c447ff-3a06-4b09-ba73-6f295e6ad3d5,Bus 7 at Stop #5377,"Sun, 14 Feb 2021 18:05:24 -0600",Brian Meade,vers7guy@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Bus 7 at Stop #5377,False,False,"My partner has been WAITING for bus for 2 hours since some routes have been cancelled and I am VERY WORRIED - especially at his age!   I’ve prayed for the last hour that he would be home safe.  Please do something that he can be brought to my home safely.  Thank you.
+Sent from my iPhone
+"

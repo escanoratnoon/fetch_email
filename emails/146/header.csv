@@ -1,2 +1,11 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-146 (RFC822 {16705},"Sun, 14 Feb 2021 12:11:44 -0600",Maya Davis,mdavis2008@escoffier.edu,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+146 (RFC822 {204195},796c8499-ea9a-47c1-add1-75bbf84d7a3a,Re: Cold Weather Shelters Activated,"Sun, 14 Feb 2021 14:03:14 -0600",John Woodley,johnmwoodley@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Cold Weather Shelters Activated,True,False,"If the person in the electric wheelchair is stranded outside and/or is at risk First responders should be called.Electric Wheelchairs are typically used for those that can not use a manual wheelchair. Electric wheelchairs have a manual release lever so that someone can push them in an emergency. Cold weather is bad for any batteries.As I predicted, in a previous email, Cap Metro will deny transportation to destinations and cold weather shelters (CWS) due to the weather.
+
+In this case the paratransit service denied service
+based on weather and (a disability if the regular buses are still running). The paratransit system must still run as long as the main bus route runs to give people with disabilities equal access to CWS that can not use the regular buses. The main bus routes will also shut down due to weather.Additionally, They should extend their 1/4 mile limits from the nearest bus routes or bus stops to ensure people with a disability can get access to transportation,
+especially in a disaster
+area or state of emergency. They need to be door to door service.The Governor
+has declared a state of emergency due to the weather and the pandemic.Due to travel barriers, People need to be able to remotely register for CWS from any location and get a hotel in their immediate area for the duration of the CW declarations, preferably
+a hotel that has food service and willing to service
+meals and that is accessible without having to travel outside the building as it may become impassable.Question, do first responders have spiked tires for icy
+"

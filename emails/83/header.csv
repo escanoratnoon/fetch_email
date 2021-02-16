@@ -1,2 +1,21 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-83 (RFC822 {109035},"Fri, 12 Feb 2021 19:15:32 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+83 (RFC822 {34850},ea710c53-f83e-4b88-bcbe-628b2410dc49,Fwd: Your receipt and ticket(s) from Capital Metro - #CM3449229-364,"Fri, 12 Feb 2021 19:40:27 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Fwd: Your receipt and ticket(s) from Capital Metro - #CM3449229-364,False,True,"Please restore this ticket to my account---------- Forwarded message ----------From: Guy Burton guyburton@live.comDate: Feb 12, 2021 7:37 PMSubject: Fwd: Your receipt and ticket(s) from Capital Metro - #CM3449229-364To: Wife ms.lindsayashton@gmail.com,Wife mrs.lindsayashtonburton@gmail.comCc: ---------- Forwarded message ----------From: Capital Metro noreply@bytemark.coDate: Feb 12, 2021 4:30 PMSubject: Your receipt and ticket(s) from Capital Metro - #CM3449229-364To: guyburton@live.comCc:
+Capital Metro
+Thank you for your purchase from Capital Metro, Guy Burton
+Order Reference:
+CM3449229-364
+Purchase Date:
+February 8, 2021 5:03 p.m CST
+Total Cost:
+USD 41.25
+Payments:
+Mastercard ending in 7119 was charged USD 41.25
+QuantityProductUnit PriceSubtotal1
+Local 31-Day Pass
+MOBILE TICKET
+USD 41.25USD 41.25
+Total:
+USD 41.25
+Thank you,
+Capital Metro
+"

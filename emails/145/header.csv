@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-145 (RFC822 {15212},"Sun, 14 Feb 2021 10:47:33 -0600",Yvette M Palladino,veggievette@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Train service Monday???,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+145 (RFC822 {16705},f6d76123-da8c-4300-a2fc-0b88c1ef299e,Android Support - 2/14/21,"Sun, 14 Feb 2021 12:11:44 -0600",Maya Davis,mdavis2008@escoffier.edu,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,"I just got a new phone and changed my password to my account because I forgot it and now I'm trying to unlock my seven day pass . Can you please unlock it for me
+Maya davismdavis2008@escoffier.eduApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 9
+"

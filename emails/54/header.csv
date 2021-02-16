@@ -1,2 +1,19 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-54 (RFC822 {66778},"Thu, 11 Feb 2021 21:24:36 +0000",Garcia Carol,Carol.Garcia@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: app not installing from store to phone.,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+54 (RFC822 {17494},f76badff-ddcc-4bec-82da-a480d5d9e2d6,Android Support - 2/11/21,"Thu, 11 Feb 2021 16:07:35 -0600",melissa alexander,bluefirefly40@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/11/21,False,False,"melissa alexanderbluefirefly40@gmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 10
+Hi,I have a locked ticket on my app that I would like to unlock. I had purchased it on a different device and my newest phone number is 512-554-8241. You should be able to see I've purchased my most recent tickets under that number. Thank you.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Melissa
+"

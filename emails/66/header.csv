@@ -1,2 +1,3 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-66 (RFC822 {21877},"Fri, 12 Feb 2021 18:23:06 +0000",Wood Marcella,Marcella.Wood@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Fwd: Free Fares during Cold Snap,False,True,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+66 (RFC822 {17003},095c8467-09a1-4442-a3c0-7ca7cba0aacb,Android Support - 2/12/21,"Fri, 12 Feb 2021 12:52:10 -0600",Evil Hound,drpeterson9520@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,"I had TWO 31 day passes available in my app and now their gone, I'm gonna need a refund or replacementsnull nulldrpeterson9520@gmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 10
+"

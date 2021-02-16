@@ -1,49 +1,91 @@
-Done.
+Have you tried signing out of the app and then signing back in? Try the following steps.
 
-From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=PnhhyOppjkGY8q-PMu0BdU0nei_yqDFWHDEQpwj1UyM&s=WrjtFMWO8xuP4Tnqwa-9X9OscfaP2AkxNvzXP2VmY8M&e=>
-Sent: Tuesday, February 9, 2021 2:52 PM
-To: Wood, Marcella <Marcella.Wood@capmetro.org>; Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=PnhhyOppjkGY8q-PMu0BdU0nei_yqDFWHDEQpwj1UyM&s=WrjtFMWO8xuP4Tnqwa-9X9OscfaP2AkxNvzXP2VmY8M&e=>
-Cc: Williams, Sondra <Sondra.Williams@capmetro.org>; Williams, Patricia <Patricia.Williams@capmetro.org>
-Subject: RE: Android Support - 2/9/21-One time courtesy
 
-Got it
+  *   Log out of the device
+  *   Wait a minute and log back in
+  *   Tap the three horizontal line menu in the left-hand corner of the screen
+  *   Tap More
+  *   Tap Ticket Storage; the ticket should show saved to the cloud
+  *   Tap the icon to the right of the ticket to save it to the device
 
-From: Wood, Marcella <Marcella.Wood@capmetro.org<mailto:Marcella.Wood@capmetro.org>>
-Sent: Tuesday, February 9, 2021 1:35 PM
-To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=PnhhyOppjkGY8q-PMu0BdU0nei_yqDFWHDEQpwj1UyM&s=vKEVSGIRNDEH4KcsTS6oFSGaorHtzITIDYryC8klhu0&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
-Cc: Williams, Sondra <Sondra.Williams@capmetro.org<mailto:Sondra.Williams@capmetro.org>>; Williams, Patricia <Patricia.Williams@capmetro.org<mailto:Patricia.Williams@capmetro.org>>
-Subject: RE: Android Support - 2/9/21-One time courtesy
 
-John,  so the customer did activate all the passes on the same day, not sure why, but they were not locked because they were being used.  Let the customer know as a onetime courtesy we will credit back two of the passes that were activated.
-
-[cid:image002.jpg@01D6FEF3.92D88620]
-
-From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=PnhhyOppjkGY8q-PMu0BdU0nei_yqDFWHDEQpwj1UyM&s=vKEVSGIRNDEH4KcsTS6oFSGaorHtzITIDYryC8klhu0&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
-Sent: Tuesday, February 9, 2021 1:02 PM
-To: Wood, Marcella <Marcella.Wood@capmetro.org<mailto:Marcella.Wood@capmetro.org>>
-Cc: Williams, Sondra <Sondra.Williams@capmetro.org<mailto:Sondra.Williams@capmetro.org>>; Williams, Patricia <Patricia.Williams@capmetro.org<mailto:Patricia.Williams@capmetro.org>>
-Subject: FW: Android Support - 2/9/21
-
-Good afternoon,
-
-It looks like this customer keketapri@gmail.com <mailto:keketapri@gmail.com>  activated three day passes on the 7th, and they ended up locked.
-
-It looks like the customer would like a credit for the locked passes.
-
-Are we able to offer any assistance for this customer?
 
 Thank you,
-John Torres
+Carol Garcia
+Customer Service
 
-From: keke tapri <keketapri@gmail.com<mailto:keketapri@gmail.com>>
-Sent: Tuesday, February 9, 2021 12:15 PM
-To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=PnhhyOppjkGY8q-PMu0BdU0nei_yqDFWHDEQpwj1UyM&s=vKEVSGIRNDEH4KcsTS6oFSGaorHtzITIDYryC8klhu0&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
-Subject: Android Support - 2/9/21
+Sign Up for MetroAlerts and find out about service disruptions as soon as they happen. By email or straight to your phone. https://urldefense.proofpoint.com/v2/url?u=https-3A__www.capmetro.org_metroalerts_&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=qVY-ttNsIRRhvVpkzWbo_ynUr4_aX62Gdw0fTc5kv-U&e=
+
+From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=U1Uw9hZxEWnDtXHZhPSYFYSwB60CuvNcnwucsa4FM_A&e=>
+Sent: Tuesday, February 9, 2021 3:42 PM
+To: Garcia, Carol <https://urldefense.proofpoint.com/v2/url?u=http-3A__Carol.Garcia-40capmetro.org&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=kiiEI7GJmyVD3ZKEuVNAyNrV_8xOE0rdu3fsk2lSUKA&e=>
+Subject: FW: app not installing from store to phone.
+
+Hey can you tell me what’s going on with this one, thanks.
+
+From: dresfacekick <dresfacekick@gmail.com<mailto:dresfacekick@gmail.com>>
+Sent: Friday, February 5, 2021 4:33 PM
+To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=oQy43TguT7oT8T8X_m7Y_dduzrHZ5lXirKCtJma8i3s&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
+Subject: RE: app not installing from store to phone.
 
 
-I purchase five day passes the day before yesterday I only use two and now I'm not able to  see any of the available passes
-Lucretia Brock
-keketapri@gmail.com<mailto:keketapri@gmail.com>
-App Name: Capital Metro
-App Version : 4.31.2 1057
-OS Version : 10
+
+
+
+Sent from my Sprint Samsung Galaxy S10.
+
+
+-------- Original message --------
+From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=oQy43TguT7oT8T8X_m7Y_dduzrHZ5lXirKCtJma8i3s&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
+Date: 2/5/21 2:55 PM (GMT-06:00)
+To: dresfacekick <dresfacekick@gmail.com<mailto:dresfacekick@gmail.com>>
+Subject: RE: app not installing from store to phone.
+
+Have you downloaded the app? What messages are you receiving?
+
+Thank you,
+Carol Garcia
+Customer Service
+
+Sign Up for MetroAlerts and find out about service disruptions as soon as they happen. By email or straight to your phone. https://urldefense.proofpoint.com/v2/url?u=https-3A__www.capmetro.org_metroalerts_&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=qVY-ttNsIRRhvVpkzWbo_ynUr4_aX62Gdw0fTc5kv-U&e=
+
+From: dresfacekick <dresfacekick@gmail.com<mailto:dresfacekick@gmail.com>>
+Sent: Friday, February 5, 2021 2:46 PM
+To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=oQy43TguT7oT8T8X_m7Y_dduzrHZ5lXirKCtJma8i3s&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
+Subject: RE: app not installing from store to phone.
+
+Version of app 4.31.2
+
+
+
+Sent from my Sprint Samsung Galaxy S10.
+
+
+-------- Original message --------
+From: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=oQy43TguT7oT8T8X_m7Y_dduzrHZ5lXirKCtJma8i3s&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
+Date: 2/5/21 1:19 PM (GMT-06:00)
+To: dresfacekick <dresfacekick@gmail.com<mailto:dresfacekick@gmail.com>>
+Subject: RE: app not installing from store to phone.
+
+Thank you for taking the time to contact Capital Metro with your question.
+
+What type of cell phone do you have?
+What is the version on the cell?
+
+Thank you,
+Carol Garcia
+Customer Service
+
+Sign Up for MetroAlerts and find out about service disruptions as soon as they happen. By email or straight to your phone. https://urldefense.proofpoint.com/v2/url?u=https-3A__www.capmetro.org_metroalerts_&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=qVY-ttNsIRRhvVpkzWbo_ynUr4_aX62Gdw0fTc5kv-U&e=
+
+From: dresfacekick <dresfacekick@gmail.com<mailto:dresfacekick@gmail.com>>
+Sent: Friday, February 5, 2021 10:38 AM
+To: Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Se&d=DwIGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=Gp0fpnT_MlO0I8vlk6ut0PcTwmxg09aDVO71zXQCq6w&s=oQy43TguT7oT8T8X_m7Y_dduzrHZ5lXirKCtJma8i3s&e=rvice@capmetro.org<mailto:Customer.Service@capmetro.org>>
+Subject: app not installing from store to phone.
+
+I recently tried to reinstall the capmetro app to my galaxy phone and was not able to. I chatted with  Google support  and ran through all trouble shooting with no new results. I was directed to contact you for a resolution to my predicament. As I am reliant on the bus services to receive my medication from the pharmacy I hope to have this resolved asap. Thank you.
+
+
+
+Sent from my Sprint Samsung Galaxy S10.
+

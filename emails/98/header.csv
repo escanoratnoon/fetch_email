@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-98 (RFC822 {469896},"Sat, 13 Feb 2021 08:24:38 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+98 (RFC822 {20849},ef3928f8-580e-402d-a76a-2847a384e3ea,Android Support - 2/13/21,"Sat, 13 Feb 2021 14:23:50 +0000 (UTC)",scott russell,walt452002@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,"The app is not showing my bus pass but instead a black screen every time I select my monthly pass
+Scott russell
+walt452002@yahoo.com
+App Name: Capital Metro
+App Version : 4.31.2 1057
+OS Version : 10Sent from Yahoo Mail on Android
+"

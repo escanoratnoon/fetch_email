@@ -1,2 +1,3 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-46 (RFC822 {85179},"Thu, 11 Feb 2021 15:44:15 +0000 (UTC)",Proofpoint Essentials,do-not-reply@cloud-protect.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Quarantine List - GoDaddy Email Encryption,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+46 (RFC822 {19711},d4aa666b-ce66-471d-9f08-5e701c0380d4,ticket recovery,"Thu, 11 Feb 2021 16:23:55 +0000 (UTC)",Bruce Johnson,bjohns97@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,ticket recovery,False,False,"I have bus tickets stored on a phone that is broken and will not turn on. I now have a new phone. Can the tickets be recovered? Following is my account information:Bruce Johnsonbjohns97@yahoo.com512-426-3409Thanks!Bruce
+"

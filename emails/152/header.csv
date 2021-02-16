@@ -1,2 +1,7 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-152 (RFC822 {16138},"Sun, 14 Feb 2021 21:07:33 -0600",Matt Garcia,matt.garcia78741@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/14/21 BUS ROUTE 271,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+152 (RFC822 {60861},0a409430-ca8a-4d65-8dca-2ad82dd99eaa,RE: iOS Support - 2/14/21,"Mon, 15 Feb 2021 03:10:39 +0000",Williams Patricia,Patricia.Williams@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: iOS Support - 2/14/21,True,False,"I do not see where we have credited this customer so yes ok to give a pass.
+ I’m not sure why the customer used it and stated the battery died due to rides are free so if the customer would have attempted to use the pass the driver should
+have let the customer know it was free.
+Patricia Williams
+Customer Care Supervisor
+"

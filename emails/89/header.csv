@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-89 (RFC822 {17089},"Fri, 12 Feb 2021 22:10:41 -0600",Joshua Jones,schwajones@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+89 (RFC822 {17436},5ee9157e-fafa-4712-be27-a20eeccc5a12,"Blankenship, Chas - Bus Pass Assistance","Fri, 12 Feb 2021 22:19:07 -0600",Chas Blankenship,chasmblankenship@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"Blankenship, Chas - Bus Pass Assistance",False,False,"Hello,My name is Chas Blankenship. Recently, I purchased two 31-day Metro Passes for use on my phone but the passes do not appear and I'm unable to access them. I'm not sure why.The Order Number is: CM3452791-600Total Amount: $82.50I need these passes in order to use transportation to get to work. Please help me locate these so that I can use
+them!Regards,Chas Blankenship
+"

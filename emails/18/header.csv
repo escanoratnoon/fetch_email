@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-18 (RFC822 {23433},"Tue, 9 Feb 2021 16:43:23 -0600",Killer Winter,killerwinter80@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Are you guys available in the weekend,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+18 (RFC822 {21614},ab12d044-e1d8-493c-9d8c-5c7378a08de8,Re: iOS Support - 2/5/21,"Tue, 9 Feb 2021 16:53:09 -0600",Carl Nuckols,carlnuck85@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: iOS Support - 2/5/21,True,False,"All that sounds nice and all. Hard to take you guys serious without action. What's even more frustrating as I read this email. Boom!!!! Here it is the same exact situation. So here it is having to complain again. I'm sure I'm not the only one This point. I work in a call center, I know customer service. So you can continue to use your kind word and empathetic statements. It's clear our concerns are falling on deaf ears. I just hate that I have to take this bus, and use your services because it's not worth Jack.
+Sent from my iPhone
+"

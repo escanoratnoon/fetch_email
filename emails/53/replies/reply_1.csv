@@ -1,0 +1,2 @@
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+None,85d1863d-4e68-4da1-942b-37ea8c102875,RE: app not installing from store to phone.,"Thursday, February 11, 2021 3 20 PM",Customer Service,Customer.Service@capmetro.org,Garcia Carol,Carol.Garcia@capmetro.org,FW  app not installing from store to phone.,True,None,"Carol,What should we do for this customer, the customer still cant access the app.Thanks,John Torres"

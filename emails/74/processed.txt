@@ -1,0 +1,1 @@
+Guy Burtonguyburton@live.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 10App is not displaying ticket to show to bus driverWhen I select it it only shows a black screen with no info

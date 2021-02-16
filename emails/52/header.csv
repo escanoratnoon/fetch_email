@@ -1,2 +1,14 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-52 (RFC822 {15046},"Thu, 11 Feb 2021 12:21:44 -0600",Linda Vara,lindadujour@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Snow storm routing ,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+52 (RFC822 {31294},757a66c9-3d00-4c10-a58e-63f4222e3e1d,RE: Off-line Busses: Auctions,"Thu, 11 Feb 2021 21:23:01 +0000",Bargsley Bryan,bryan.bargsley@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Off-line Busses: Auctions,True,False,"Hi Steve and John,
+www.govdeals.com/capmetro
+Our Surplus is sold on a site called Govdeals.com. There will be some buses loaded to that site for us next week.
+Thank you,
+Bryan
+Bryan Bargsley
+Asset Disposal Specialist II | Procurement | Capital Metro
+bryan.bargsley@capmetro.org
+| 512.369-6572 | f 512.389.7594
+PRIVILEGED AND CONFIDENTIAL: This communication, including attachments, is for the exclusive use of addressee and may contain proprietary, confidential and/or privileged information.　
+If you are not the intended recipient, any use, copying, disclosure, dissemination or distribution is strictly prohibited.　
+If you are not the intended recipient, please notify the sender immediately by return e-mail, delete this communication and destroy all copies
+"

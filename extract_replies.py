@@ -18,7 +18,8 @@ for dir in dirs_to_iter:
         data = pandas.read_csv(dir + '/header.csv')
         is_threaded = str(data['is_threaded'].values[0])
     else:
-        raise Exception('Header file not found.')
+        print('Header file not found.', dir)
+        continue
 
     if is_threaded == 'False':
         if os.path.exists(dir + '/processed.txt'):
@@ -47,6 +48,11 @@ for dir in dirs_to_iter:
                 focus_string = ''
                 focus_string += (line + '\n')
 
+            elif re.search(r'wrote[:]$', line):
+                list_of_replies.append(focus_string)
+                focus_string = ''
+                focus_string += (line + '\n')
+
             else:
                 focus_string += (line + '\n')
 
@@ -65,10 +71,23 @@ for dir in dirs_to_iter:
         date = ''
         cc = ''
         bcc = ''
+        format_2 = False
+        email_f2 = ''
         for line in list_item.split('\n'):
 
             if line.lower().startswith('from:'):
                 sender = (' '.join(line.split(':')[1:])).strip()
+
+            elif re.search(r'wrote:$', line.lower()):
+                format_2 = True
+                try:
+                    email_f2 = re.search(r'[<](.*?)[>]', line).group(1)
+                except:
+                    email_f2 = 'None-f2'
+                list = line.split(' ')
+                list = list[1:-1]
+                # if email_f2 != 'None':
+                #     list.remove('<' + email_f2 + '>')
 
             elif line.lower().startswith('to:'):
                 receiver = (' '.join(line.split(':')[1:])).strip()
@@ -87,25 +106,31 @@ for dir in dirs_to_iter:
 
             else:
                 focus_string += line
+        if not format_2:
+            try:
+                sender_name = (' '.join(sender.split(' ')[:-1]))
+                sender_name = re.sub(r'[",]', '', sender_name).strip()
+                sender_email = sender.split(' ')[-1].replace(r'[<>]', '')
+                sender_email = re.sub(r'[<>]', '', sender_email).strip()
+            except:
+                sender_name = None
+                sender_email = re.sub(r'[<>]', '', sender)
 
-        try:
-            sender_name = (' '.join(sender.split(' ')[:-1]))
-            sender_name = re.sub(r'[",]', '', sender_name).strip()
-            sender_email = sender.split(' ')[-1].replace(r'[<>]', '')
-            sender_email = re.sub(r'[<>]', '', sender_email).strip()
-        except:
-            sender_name = None
-            sender_email = re.sub(r'[<>]', '', sender)
-
-        try:
-            receiver_name = (' '.join(receiver.split(' ')[:-1]))
-            receiver_name = re.sub(r'[",]', '', receiver_name).strip()
-            receiver_email = receiver.split(' ')[-1].replace(r'[<>]', '')
-            receiver_email = re.sub(r'[<>]', '', receiver_email).strip()
-        except:
-            receiver_name = None
-            receiver_email = re.sub(r'[<>]', '', receiver)
-
+            try:
+                receiver_name = (' '.join(receiver.split(' ')[:-1]))
+                receiver_name = re.sub(r'[",]', '', receiver_name).strip()
+                receiver_email = receiver.split(' ')[-1].replace(r'[<>]', '')
+                receiver_email = re.sub(r'[<>]', '', receiver_email).strip()
+            except:
+                receiver_name = None
+                receiver_email = re.sub(r'[<>]', '', receiver)
+        else:
+            sender_name = 'None-f2'
+            sender_email = email_f2
+            receiver_name = 'None-f2'
+            receiver_email = 'None-f2'
+            subject = ''
+            date = ''
         # print('For', dir)
         # print('Sender:', reply_sender.strip())
         # print('Sender Name:', sender_name.strip())
@@ -121,11 +146,13 @@ for dir in dirs_to_iter:
             reply_file.write(list_item)
 
         with open(f'reply_{count}.csv', mode='w+') as csv_file:
-            fieldnames = ['id', 'timestamp', 'sender_name', 'sender_email', 'receiver_name', 'receiver_email',
-                          'subject', 'is_threaded', 'is_forwarded', 'content']
+            fieldnames = ['email_id', 'thread_id', 'thread_name', 'timestamp', 'sender_name', 'sender_email',
+                          'receiver_name', 'receiver_email', 'subject', 'is_threaded', 'is_forwarded', 'content']
             writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
             writer.writeheader()
-            writer.writerow({'id': 'None', 'timestamp': date, 'sender_name': sender_name, 'sender_email': sender_email,
+            writer.writerow({'email_id': 'None', 'thread_id': data['thread_id'].values[0],
+                             'thread_name': data['thread_name'].values[0], 'timestamp': date,
+                             'sender_name': sender_name, 'sender_email': sender_email,
                              'receiver_name': receiver_name, 'receiver_email': receiver_email,
                              'subject': subject, 'is_threaded': 'True', 'is_forwarded': 'None',
                              'content': focus_string})

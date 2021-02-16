@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-149 (RFC822 {18643},"Sun, 14 Feb 2021 18:05:24 -0600",Brian Meade,vers7guy@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Bus 7 at Stop #5377,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+149 (RFC822 {20751},78328ea3-652a-4b0b-b0a0-b0e6ac9d2f61,Android Support - 2/14/21,"Mon, 15 Feb 2021 00:48:20 +0000",Sebastian Carroll,sebastiancarroll@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,"Sebastian Carroll
+sebisrad@gmail.com
+App Name: Capital Metro
+App Version : 4.31.2 1057
+OS Version : 9
+Line 322 hasn't stopped at Hancock Center at 6:00 or 6:30 even though no cancellations have been announced.
+"

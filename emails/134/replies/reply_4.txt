@@ -1,0 +1,12 @@
+From: Guy Burton guyburton@live.com
+Sent: Friday, February 12, 2021 4:30 PM
+To: Customer Service Customer.Service@capmetro.org
+Subject: Android Support - 2/12/21
+Guy Burton
+guyburton@live.com
+App Name: Capital Metro
+App Version : 4.31.2 1057
+OS Version : 10
+App is not displaying ticket to show to bus driver
+When I select it it only shows a black screen with no info
+

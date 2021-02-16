@@ -1,2 +1,18 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-3 (RFC822 {15710},"Fri,  5 Feb 2021 16:24:47 +0000 (UTC)",Proofpoint Essentials,do-not-reply@cloud-protect.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Welcome to GoDaddy's Advanced Email Security Service,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+3 (RFC822 {15710},b435af1e-4717-4972-8b42-c4f6861a0303,Welcome to GoDaddy's Advanced Email Security Service,"Fri,  5 Feb 2021 16:24:47 +0000 (UTC)",Proofpoint Essentials,do-not-reply@cloud-protect.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Welcome to GoDaddy's Advanced Email Security Service,False,False,"Welcome to GoDaddy's Advanced Email Security Service
+Welcome to GoDaddy's Advanced Email Security Service
+04:24pm 2021-02-05
+Dear CapMetro CustomerSupport,
+Welcome to GoDaddy's Advanced Email Security service. We've partnered with Proofpoint to bring you industry-leading security solutions for your Office 365 organization.
+Advanced Email Security is already working and protecting you, so there's nothing you need to do.  If you would like to view your account activity and settings, go to the Proofpoint portal here: godaddy.cloud-protect.net.  There are two ways to log in to the Proofpoint portal:
+1) Use your email address (capmetro.customersupport@alphavu.com) and create a Proofpoint-only password. You can set your password here:
+Set Proofpoint Password
+2) Use your existing GoDaddy Office 365 email credentials.  At the Proofpoint portal, click on ""Office 365 Account"" and enter your existing credentials (note: you may be prompted to grant cloud-protect.net access to your Office 365 organization to use this feature).
+Check out this video that walks you through getting started with a few of Advanced Email Security's features: https://youtu.be/o8tyli1Urdg
+Thank you,
+The GoDaddy Customer Care Team
+480-463-8843
+Your Support Team
+This email was sent to you from Proofpoint Essentials.
+Sign in to Proofpoint Essentials
+"

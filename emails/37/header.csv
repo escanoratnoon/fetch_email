@@ -1,2 +1,6 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-37 (RFC822 {259599},"Wed, 10 Feb 2021 13:03:02 -0600",Karen Hibpshman,info@circlecranch.info,Capmetro Customer Support,capmetro.customersupport@alphavu.com,FW: Tag,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+37 (RFC822 {20787},1b381654-334c-4814-9c55-71ab8b2ec0ab,Off-line Busses: Auctions,"Wed, 10 Feb 2021 19:09:18 +0000",Steve Combs,sjcombs@LIVE.COM,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Off-line Busses: Auctions,False,False,"Hello,
+I was wondering where you sell your buses that have aged out?
+ Do you us PublicSurplus.org?
+Steve
+"

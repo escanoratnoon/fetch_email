@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-43 (RFC822 {22591},"Thu, 11 Feb 2021 17:24:46 +0530",Sumit Mahto,sumitqurekalite1@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Make more app revenue | Try Joining Us,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+43 (RFC822 {16515},abdcb85f-aca9-43f1-88f6-de6f3c3fbf30,Rides,"Thu, 11 Feb 2021 08:47:10 -0600",Ruben Cardona,rubenjames82@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Rides,False,False,"RDID: NjkzOQ==, RID: N/A, App Version: 3.10.0 (8), iOS: 14.4, Model: iPhone12,5How much does
+it cost?
+"

@@ -1,0 +1,12 @@
+Looks like it's working now, thanks so much for the timely help!!On Sat, Feb 13, 2021, 5:40 PM Customer Service Customer.Service@capmetro.org wrote:
+Glad to hear you can access the others. Please follow the steps below for the data error:
+Log out of the device
+Wait a minute and log back in
+Tap the three horizontal line menu in the left-hand corner of the screen
+Tap More
+Tap Ticket Storage; the ticket should show saved to the cloud
+Tap the icon to the right of the ticket to save it to the device
+NOTE: You may need to force close and reopen the app if the ticket won’t display
+After the above steps, the pass should be ready for use.
+I have also credited a Local Day pass for the time you were unable to access your pass.
+Sondra Williams

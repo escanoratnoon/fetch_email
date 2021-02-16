@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-150 (RFC822 {20751},"Mon, 15 Feb 2021 00:48:20 +0000",Sebastian Carroll,sebastiancarroll@hotmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+150 (RFC822 {18284},1c916f6d-a82d-48e0-9570-84b34def45de,iOS Support - 2/14/21,"Sun, 14 Feb 2021 20:12:37 -0600",Hunter Scroggins,hmscroggins@att.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/14/21,False,False,"I tried to use a ticket today, however my phone died and I wasn’t able to actually use the ticket. Could I possibly get a new ticket?
+Thank you and happy Valentine’s Day!
+Hunter Scroggins
+kmyydy8424@privaterelay.appleid.com
+App Version: 4.023 2
+OS Version: 13.6
+"

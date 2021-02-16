@@ -1,8 +1,14 @@
-Yes, it is working. Thank you so much
+Thanks for the quick response!
 
-On Sat, Feb 13, 2021, 4:33 PM Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwICaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=BN2l1yATQgEsWq4ZMzc7fxU2VMYpza41y5IPE2zT9p4&s=cPes0hZ5yCTMa96yCfO7XMsajlgvP0tEKyeY9kQKUTQ&e=> wrote:
+It seems I can use the two day passes now. However, my original 31 day pass
+is greyed-out, with a "data error: contact customer service" message over
+it.
 
-> Mr. Reid,
+-Miles
+
+On Sat, Feb 13, 2021, 4:29 PM Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwICaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=DKAUmadWx1i31UB4lmgLq8-Ba0oXltBNLrttGPpIQOk&s=9z0KZr5MwiW8BMu9Ys3AwDA540w4Sqx9SrMTmrppZPg&e=> wrote:
+
+> Mr. Worthington,
 >
 >
 >
@@ -19,14 +25,35 @@ On Sat, Feb 13, 2021, 4:33 PM Customer Service <https://urldefense.proofpoint.co
 >
 >
 >
-> *From:* Jeffrey Reid <jeffreyreid166@gmail.com>
-> *Sent:* Saturday, February 13, 2021 12:28 AM
-> *To:* Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwICaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=BN2l1yATQgEsWq4ZMzc7fxU2VMYpza41y5IPE2zT9p4&s=cPes0hZ5yCTMa96yCfO7XMsajlgvP0tEKyeY9kQKUTQ&e=>
-> *Subject:*
+> *From:* Miles Worthington <meworthington1@gmail.com>
+> *Sent:* Saturday, February 13, 2021 1:52 PM
+> *To:* Customer Service <https://urldefense.proofpoint.com/v2/url?u=http-3A__Customer.Service-40capmetro.org&d=DwICaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=V_YbMZjQBNNLkAPyIG-mvBp8_5RDN4UDNlUUePI-mVHvDHDAYA51j2ML-cElzg0L&m=DKAUmadWx1i31UB4lmgLq8-Ba0oXltBNLrttGPpIQOk&s=9z0KZr5MwiW8BMu9Ys3AwDA540w4Sqx9SrMTmrppZPg&e=>
+> *Subject:* Android Support - 2/13/21
 >
 >
 >
-> My Cap Metro app isn't working at all it keeps closing I can't use my 31
-> day bus pass and I have another 31 day pass and money in the wallet part of
-> the app I have to go to and from work Please help me
+> Hi,
+>
+>
+>
+> I've been having issues accessing my 31-day pass, on my phone, since
+> yesterday. The pass is in my app under "available", but when I click on it
+> my screen goes black and the app crashes.
+>
+> And on a semi-related note, I've also tried buying two of the $2.50 day
+> passes through the app via Google Pay, but got two "order failed" messages.
+> However, my card was still charged it seems, so I may need a refund on
+> those.
+>
+>
+>
+> Thanks for any help!
+>
+>
+>
+> Miles Worthington
+> meworthington1@gmail.com
+> App Name: Capital Metro
+> App Version : 4.31.2 1057
+> OS Version : 11
 >

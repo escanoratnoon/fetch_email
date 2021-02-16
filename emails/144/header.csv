@@ -1,2 +1,5 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-144 (RFC822 {27211},"Sun, 14 Feb 2021 10:30:09 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,RE: Android Support - 2/12/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+144 (RFC822 {15212},b11c4eb2-73f6-47e8-b769-6365e03def65,Train service Monday???,"Sun, 14 Feb 2021 10:47:33 -0600",Yvette M Palladino,veggievette@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Train service Monday???,False,False,"Hi!  Will there be train service tomorrow? Thanks!
+Yvette
+Sent from my iPad
+"

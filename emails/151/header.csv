@@ -1,2 +1,8 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-151 (RFC822 {18284},"Sun, 14 Feb 2021 20:12:37 -0600",Hunter Scroggins,hmscroggins@att.net,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/14/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+151 (RFC822 {16138},4f3735da-3644-4485-a38d-306c35c7b818,iOS Support - 2/14/21 BUS ROUTE 271,"Sun, 14 Feb 2021 21:07:33 -0600",Matt Garcia,matt.garcia78741@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/14/21 BUS ROUTE 271,False,False,"Hi I was wondering if the route 271 is affected with the changed for the weather and the time of the buses starting delayed??
+Matthew Garcia
+gic58kiadv@privaterelay.appleid.com
+App Version: 4.023 2
+OS Version: 14.4
+Sent from my iPhone
+"

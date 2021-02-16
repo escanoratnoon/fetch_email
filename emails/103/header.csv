@@ -1,2 +1,3 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-103 (RFC822 {23823},"Sat, 13 Feb 2021 10:00:40 -0600",Z bdot,hpt757@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/12/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+103 (RFC822 {17173},38e13229-50cc-476e-86b8-2e4bef3f630c,Android Support - 2/13/21,"Sat, 13 Feb 2021 10:03:13 -0600",Master J,jjputnam1966@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/13/21,False,False,"Master Jjjputnam1966@gmail.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 9 I had purchased a ticket on the app and it was good till March 9th and all of a sudden it disappeared off my phone app play a different location I don't have the ticket on there anymore what should I do
+"

@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-82 (RFC822 {15700},"Fri, 12 Feb 2021 18:42:19 -0600",Jackie Martin,jackiedmartin@icloud.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,iOS Support - 2/12/21,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+82 (RFC822 {109035},96d34ddc-7e35-4833-a59a-7f8e6cbc8679,Android Support - 2/12/21,"Fri, 12 Feb 2021 19:15:32 -0600",Guy Burton,guyburton@live.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/12/21,False,False,"Guy Burtonguyburton@live.comApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 10I reinstalled the app and now my ticket is goneEven though it shows in my purchase history
+Please restore my ticket
+"

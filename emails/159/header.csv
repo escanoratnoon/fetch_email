@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-159 (RFC822 {32446},"Mon, 15 Feb 2021 05:10:16 +0000",Mobley Tangee,Tangee.Mobley@capmetro.org,Capmetro Customer Support,capmetro.customersupport@alphavu.com,"Re: Another Bad Day on Capital Metro (Wed., Feb. 10, 2021)",True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+159 (RFC822 {21869},8178b5e9-4588-401d-91e1-bcf9a7efbe9c,Re: Bus 7 at Stop #5377,"Sun, 14 Feb 2021 23:10:56 -0600",Brian Meade,vers7guy@yahoo.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Bus 7 at Stop #5377,True,False,"It’s all good - my partner had to walk 5 miles and got home safely and in one piece. 🙂
+Sent from my iPhone
+"

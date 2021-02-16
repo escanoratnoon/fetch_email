@@ -1,2 +1,5 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-44 (RFC822 {16515},"Thu, 11 Feb 2021 08:47:10 -0600",Ruben Cardona,rubenjames82@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Rides,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+44 (RFC822 {17413},040d3d12-77a3-40be-abec-067c1e44b794,Accidental Purchase,"Thu, 11 Feb 2021 08:56:21 -0600",Najja Imani,najjalewis96@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Accidental Purchase,False,False,"Good morning,On Tuesday, February 9, 2021 I was rushing to buy my bus ticket and failed to realize I accidentally purchased a week pass instead of a day pass. Unfortunately I haven’t been able to use it because I haven’t needed it so I was hoping I would be able to receive a refund for that accidental purchase so I’m not wasting money!! Please let me know.
+Thank you so much.
+Sincerely,Najja Lewis
+"

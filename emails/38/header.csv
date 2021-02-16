@@ -1,2 +1,15 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-38 (RFC822 {20787},"Wed, 10 Feb 2021 19:09:18 +0000",Steve Combs,sjcombs@LIVE.COM,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Off-line Busses: Auctions,False,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+38 (RFC822 {433464},beca9056-ee8b-4a2c-98fc-1434b5083ea1,Re: iOS Support - 2/9/21,"Wed, 10 Feb 2021 14:03:20 -0600",Eraclio N Diaz,eraclius84@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: iOS Support - 2/9/21,True,False,"Dear Metro support,
+Apparently metro already initiated the refund!
+R/ Eric
+Sent from Eraclio's iPhone 7 PlusOn Feb 10, 2021, at 7:51 AM, Customer Service Customer.Service@capmetro.org wrote:﻿
+Dear Eraclio,
+Thank you for contacting Capital Metro regarding your request for a refund.
+Your request has been submitted to our finance department for consideration for reimbursement, please allow 4-5 business days for a response.
+Your reference number for your request is 77454.
+Once again, thank you for taking the time to contact us and thank you for riding Capital Metro. Please feel free to contact us in the future if you have any concerns, questions or suggestions regarding our service. You may reach our
+Customer Service Department at 512-474-1200 or via our web site at
+www.capmetro.org.
+Thank you,
+John Torres
+"

@@ -1,0 +1,21 @@
+From: Customer Service Customer.Service@capmetro.org
+Date: 2/9/21 3:59 PM (GMT-06:00)
+To: dresfacekick dresfacekick@gmail.com
+Subject: RE: app not installing from store to phone.
+We apologize for the inconvenience this has caused you.
+If you are still having this issue please attempt the following steps, and contact us if it does not help.
+Have you tried signing out of the app and then signing back in? Try the following steps.
+·
+Log out of the device
+·
+Wait a minute and log back in
+·
+Tap the three horizontal line menu in the left-hand corner of the screen
+·
+Tap More
+·
+Tap Ticket Storage; the ticket should show saved to the cloud
+·
+Tap the icon to the right of the ticket to save it to the device
+Thank you,
+John Torres

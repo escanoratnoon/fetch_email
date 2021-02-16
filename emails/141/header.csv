@@ -1,2 +1,4 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-141 (RFC822 {22399},"Sat, 13 Feb 2021 21:46:43 -0600",edgardo,mark245pineapple@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/13/21,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+141 (RFC822 {16725},1473b3f3-520d-4050-9912-ab659cfc9634,Android Support - 2/14/21,"Sun, 14 Feb 2021 08:32:55 -0600",Maya Davis,mdavis2008@escoffier.edu,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Android Support - 2/14/21,False,False,"Hey I'm trying to unlock a ticket on my account I just changed my password and now I can't use my pass can you please unlock the pass for me to get to work
+Maya davismdavis2008@escoffier.eduApp Name: Capital MetroApp Version : 4.31.2 1057OS Version : 9
+"

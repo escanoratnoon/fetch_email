@@ -1,2 +1,2 @@
-id,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
-119 (RFC822 {20505},"Sat, 13 Feb 2021 17:19:32 -0600",Jeffrey Reid,jeffreyreid166@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re:,True,False,None
+email_id,thread_id,thread_name,timestamp,sender_name,sender_email,receiver_name,receiver_email,subject,is_threaded,is_forwarded,content
+119 (RFC822 {22367},5912cf7b-86a4-4991-a45d-4f956aa6f62d,Re: Android Support - 2/13/21,"Sat, 13 Feb 2021 17:27:19 -0600",Miles Worthington,meworthington1@gmail.com,Capmetro Customer Support,capmetro.customersupport@alphavu.com,Re: Android Support - 2/13/21,True,False,
